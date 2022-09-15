@@ -36,4 +36,11 @@ print(media)
 lado = float(input("digite o lado do quadrado:  "))
 area = lado * lado
 print(area)
+
+# 8) Calculo de salário
+v_hora = float(input("Digite o valor da hora trabalhada:  "))
+t_hora = float(input("Digite sua carga horaria mensal:  "))
+v_salario = v_hora * t_hora
+print(v_salario)
 '''
+# 9) 
